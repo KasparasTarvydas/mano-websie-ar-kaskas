@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(13, 13, 13);
+}
+
+div {   
+    align-self: center;
+}
+
+.header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 4px white solid;
+}
